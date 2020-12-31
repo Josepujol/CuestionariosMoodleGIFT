@@ -11,3 +11,6 @@ Cuestionarios realizados en formato GIFT para ser importados en Moodle
 
 ## Electrónica Analógica
 [Electrónica Analógica](https://github.com/Josepujol/CuestionariosMoodleGIFT/blob/main/CuestionarioElectronicaAnalogica.txt) cuestionario sobre Electrónica Analógica
+
+## Electrónica Digital
+[Electrónica Digital](https://github.com/Josepujol/CuestionariosMoodleGIFT/blob/main/CuestionarioElectronicaDigital.txt) cuestionario sobre Electrónica Digital

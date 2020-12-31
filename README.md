@@ -1,4 +1,6 @@
-# CuestionariosMoodleGIFT
+# Cuestionarios Moodle formato GIFT
+
+Cuestionarios realizados en formato GIFT para ser importados en Moodle
 
 ## Plantilla Cuestionario GIFT
 

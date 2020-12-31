@@ -1,0 +1,146 @@
+﻿CUESTIONARIOS ARDUINO 1 y 2
+
+
+
+
+UNIDAD 1: INTRODUCCIÓN
+
+
+:: Lenguaje de Programación::
+En qué lenguaje de programación está basado Arduino\:{
+=C++
+~%-33.33333%[moodle]Java
+~%-33.33333%[moodle]Es un lenguaje de creación propia
+}
+
+
+:: Estructura código::
+Las partes principales en las que se divide el código en Arduino son\:{
+=setup y loop
+~%-33.33333%[moodle]Comentarios y código
+~%-33.33333%[moodle]funciones y variables
+}
+
+
+:: Funciones código:: 
+Empareja las funciones del código con su repetitividad\:{
+=setup -> Se ejecuta una vez
+=loop -> Se ejecuta infinitas veces
+}
+
+
+:: Partes código:: 
+Ordena las partes del código de Arduino\:{
+=1 -> Declaración de variables
+=2 -> setup
+=3 -> loop
+}
+
+
+:: Sistemas Microcontrolados:: 
+Cuales de estas son ventajas de los sistemas microcontrolados\:{
+~%-50%[moodle]Específicos
+~%50%[moodle]Económicos
+~%50%[moodle]Fácilmente programables
+~%-50%[moodle]Analógicos
+}
+
+
+:: Entradas:: 
+Cuales de estos elementos son entradas\:{
+~%-50%[moodle]LED
+~%50%[moodle]Pulsador
+~%-50%[moodle]Motor
+~%50%[moodle]Sensor de Luz
+}
+
+
+:: Compilar::
+La principal función del compilador es\:{
+=Convertir nuestro código en un conjunto de instrucciones que entiende el procesador
+~%-33.33333%[moodle]Verificar que no hay errores
+~%-33.33333%[moodle]Convertir nuestro código en un sistema completo de directrices directamente binarias
+}
+
+
+:: setup::
+La principal característica del setup es\:{
+=Solo se ejecuta una vez
+~%-33.33333%[moodle]Se ejecuta de forma cíclica
+~%-33.33333%[moodle]Va al principio del programa
+}
+
+
+:: blink1::
+Que pasa si introducimos el código del loop del blink en el set up\:{
+=El LED solo parpadea una vez
+~%-33.33333%El programa no funciona
+~%-33.33333%Nada
+}
+
+
+UNIDAD 2: SALIDAS DIGITALES
+
+
+:: Colores cables::
+En el código de colores que empleamos para los cables, el color rojo lo usamos:\:{
+~%-33.33333%[moodle]Para los LEDs rojos
+~%-33.33333%[moodle]Para los pines de salida
+=Para los 5V
+}
+
+
+:: Resistencias::
+Los dos valores de resistencias que usaremos más comúnmente para nuestros montajes son\:{
+~%-50%[moodle]100Ω
+~%50%[moodle]220Ω
+~%50%[moodle]10Ωk
+~%-50%[moodle]100kΩ
+}
+
+
+::R LED::
+Para proteger un LED (I\=20mA y V\=2v) que conectamos a un pin de salida de Arduino, la resistencia de protección que solemos usar es\:\:{
+    ~%-33.33333%[moodle]100Ω
+    ~%-33.33333%[moodle]350Ω
+    =220Ω
+}
+
+
+::Potencia::
+Los pines digitales de Arduino\:{
+    ~%-33.33333%[moodle]Nos permiten controlar motores de cc de cualquier tamaño
+    ~%-33.33333%[moodle]Solo podemos controlar motores de cc pequeño tamaño
+    =[moodle]Para controlar motores de cc necesitamos añadir circuiteria adicional
+}
+
+
+:: Declaración pines:: 
+Los pines digitales los solemos declarar con constantes de tipo entero\: {TRUE}
+
+
+::i++::
+En programación i++ significa\:{
+    ~%-33.33333%[moodle]i\=i*1
+    =[moodle]i\=i+1
+    ~%-33.33333%[moodle]Esta expresión es incorrecta
+    ~%-33.33333%[moodle]i
+}
+
+
+:: for::
+En una estructura for (int i\=1; i&lt;10; i++), el bucle se repite\:{
+~%-33.33333%5 veces
+~%-33.33333%11 veces
+=9 veces
+~%-33.33333%10 veces
+}
+
+
+:: Estructuras de repetición::
+Cuales de las siguientes son estructuras de repetición\:{
+~%-33.33333%if
+~%33.33333%for
+~%33.33333%loop
+~%33.33333%while
+}

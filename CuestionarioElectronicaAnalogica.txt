@@ -1,4 +1,4 @@
-﻿Cuestionario Electrónica Analógica
+// Cuestionario Electrónica Analógica
 
 
 ::Magnitudes y unidades::
@@ -8,10 +8,8 @@ Empareja las magnitudes con sus unidades\:{
         =Tensión -> Voltios
 }
 
-
 ::Señales analógicas::
 Las señales en el mundo real son analógicas\:{TRUE}
-
 
 ::Señales analógicas2::
 Una señal analógica\:{
@@ -19,7 +17,6 @@ Una señal analógica\:{
         ~%50%[moodle]Es continua
         ~%50%[moodle]Toma infinitos valores
 }
-
 
 ::Circuitos digitales::
 Las ventajas de los circuitos digitales son\:{
@@ -30,7 +27,6 @@ Las ventajas de los circuitos digitales son\:{
 ~%25%[moodle]Integrables
 }
 
-
 ::Historia Electrónica::
 Ordena los inventos cronológicamente\:{
         =1 -> Valvula de vacio
@@ -39,13 +35,8 @@ Ordena los inventos cronológicamente\:{
         =4 -> Microcontrolador
 }
 
-
 ::Ley de Moore::
 La ley de Moore predijo el crecimiento de la capacidad de integración de los circuitos integrados\:{TRUE}
-
-
-________________
-
 
 ::Resistencias::
 Los componentes encargados de limitar el paso de la corriente y la tensión son\:{
@@ -55,10 +46,8 @@ Los componentes encargados de limitar el paso de la corriente y la tensión son\
         ~Diodos
 }
 
-
 ::SMD::
 Un componente SMD es para montar en una protoboard\:{FALSE}
-
 
 ::Condensadores::
 Que componente sirve para almacenar carga eléctrica\:{
@@ -68,14 +57,12 @@ Que componente sirve para almacenar carga eléctrica\:{
         ~Transistor
 }
 
-
 ::Condensadores2::
 Los condensadores tienen polaridad\:{
         ~Si
         ~No
         =Hay con polaridad y sin polaridad
 }
-
 
 ::Condensadores3::
 Los condensadores sirven\:{
@@ -85,7 +72,6 @@ Los condensadores sirven\:{
         ~%50%[moodle]Para mejorar el rizado de la onda al rectificar corriente
 }
 
-
 ::Polaridad::
 Los siguientes componentes tienen polaridad\:{
         ~%-50%[moodle]Resistencia
@@ -94,24 +80,17 @@ Los siguientes componentes tienen polaridad\:{
         ~%50%[moodle]LED
 }
 
-
-________________
-
-
 ::Diodo::
 Un puente de diodos sirve para\:{
         ~Rectificar media onda
         =Rectificar la onda completa
 }
 
-
 ::LED::
 Depende del tipo de LED que necesite una resistencia de protección\:{FALSE}
 
-
 ::Transistores::
 El transistor los usaremos como un interruptor gobernado por corriente\:{TRUE}
-
 
 ::Transistores2::
 Un transistor\:{
@@ -122,7 +101,6 @@ Un transistor\:{
 ~%25%[moodle]Tienen 3 terminales
         ~%25%[moodle]Para conocer el orden de sus terminales tenemos que mirar el data sheet
 }
-
 
 ::Transistores3::
 Cual es el único componente capaz de amplificar señal eléctrica{

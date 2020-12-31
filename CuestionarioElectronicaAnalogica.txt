@@ -23,8 +23,8 @@ Las ventajas de los circuitos digitales son\:{
         ~%-50%[moodle]Específicos
         ~%25%[moodle]Inmunes al ruido
         ~%25%[moodle]Escalables
-~%25%[moodle]Programables
-~%25%[moodle]Integrables
+        ~%25%[moodle]Programables
+        ~%25%[moodle]Integrables
 }
 
 ::Historia Electrónica::
@@ -67,7 +67,7 @@ Los condensadores tienen polaridad\:{
 ::Condensadores3::
 Los condensadores sirven\:{
         ~%-50%[moodle]Rectificar corriente
-~%-50%[moodle]Limitar el paso de la corriente
+        ~%-50%[moodle]Limitar el paso de la corriente
         ~%50%[moodle]Como temporizadores
         ~%50%[moodle]Para mejorar el rizado de la onda al rectificar corriente
 }
@@ -75,7 +75,7 @@ Los condensadores sirven\:{
 ::Polaridad::
 Los siguientes componentes tienen polaridad\:{
         ~%-50%[moodle]Resistencia
-~%-50%[moodle]LDR
+        ~%-50%[moodle]LDR
         ~%50%[moodle]Diodo
         ~%50%[moodle]LED
 }
@@ -95,17 +95,17 @@ El transistor los usaremos como un interruptor gobernado por corriente\:{TRUE}
 ::Transistores2::
 Un transistor\:{
         ~%-50%[moodle]Está formado por dos diodos en antiparalelo
-~%-50%[moodle]El inconveniente que tiene es que es muy lento
+        ~%-50%[moodle]El inconveniente que tiene es que es muy lento
         ~%25%[moodle]Es un componente fundamental de los circuitos electrónicos
         ~%25%[moodle]Los hay de dos tipos: PNP y NPN
-~%25%[moodle]Tienen 3 terminales
+        ~%25%[moodle]Tienen 3 terminales
         ~%25%[moodle]Para conocer el orden de sus terminales tenemos que mirar el data sheet
 }
 
 ::Transistores3::
 Cual es el único componente capaz de amplificar señal eléctrica{
-~Diodo
+        ~Diodo
         =Transistor
-~Condensador
-~Bobina
+        ~Condensador
+        ~Bobina
 }

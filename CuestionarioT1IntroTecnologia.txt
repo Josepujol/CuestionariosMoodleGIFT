@@ -1,4 +1,4 @@
-﻿Cuestionario T1 Intro Tecnología
+//﻿Cuestionario T1 Intro Tecnología
 
 
 ::Definición Tecnologia 1::
@@ -6,7 +6,6 @@ La tecnología es un proceso\:{
 =activo
 ~pasivo
 }
-
 
 ::Definición Tecnologia 2::
 La tecnología\:{
@@ -16,10 +15,8 @@ La tecnología\:{
 ~%-100%Es saber hacer
 }
 
-
 ::Necesidades::
 Las necesidades del ser humano no han variado a lo largo de la historia, lo que cambia es la forma de satisfacerlas, los productos\: {TRUE}
-
 
 ::Eltos tecnología::
 Elementos de la tecnología\:{
@@ -32,7 +29,6 @@ Elementos de la tecnología\:{
 ~%-50%[moodle] Necesidades humanas
 }
 
-
 ::Fases proceso::
 Ordena las fases del proceso Tecnológico\:{
 =1 -> Identificación del problema
@@ -42,10 +38,6 @@ Ordena las fases del proceso Tecnológico\:{
 =5 -> Construcción
 =6 -> Evaluación
 }
-
-
-________________
-
 
 ::Memoria::
 La Memoria es:\:{
@@ -57,10 +49,8 @@ La Memoria es:\:{
 ~%-50% [moodle] Recordar el proyecto
 }
 
-
 ::Artesano::
 Un artesano que fabrica una vasija de barro como siempre se ha hecho está aplicando tecnología {FALSE}
-
 
 ::Fab. Industrial::
 Características de la fabricación industrial \:{
@@ -72,7 +62,6 @@ Características de la fabricación industrial \:{
 ~%-50%Materiales naturales
 }
 
-
 ::Organigrama::
 La organización de una empresa se representa mediante\:{
 =Un organigrama
@@ -80,7 +69,6 @@ La organización de una empresa se representa mediante\:{
 ~El presupuesto
 ~Las vistas
 }
-
 
 ::Habilidades equipo:: 
 Selecciona las habilidades que debe tener un equipo de Tecnología\:{
@@ -93,9 +81,6 @@ Selecciona las habilidades que debe tener un equipo de Tecnología\:{
 ~%-50%[moodle]Cooperativismo
 }
 
-
-
-
 ::Revolución Industrial::
 Que revolución industrial aporta la producción en serie\:{
 ~I Revolución Industrial
@@ -104,14 +89,12 @@ Que revolución industrial aporta la producción en serie\:{
 ~Industria 4.0
 }
 
-
 ::Revolución Industrial 2::
 Empareja las causas y consecuencias de las revoluciones industriales\:{
 =Máquina de vapor -> Fábricas y Ferrocarril
 =Producción en cadena -> Sociedad de consumo
 =Computador e internet -> Sociedad del conocimiento
 }
-
 
 ::I Revolución industrial::
 Qué inventos propician la I revolución industrial\:{
@@ -122,14 +105,12 @@ Qué inventos propician la I revolución industrial\:{
 ~%-50%[moodle]Teléfono
 }
 
-
 :: Años Inventos:: 
 Empareja los Años con los inventos\:{
 =1768 -> Máquina de vapor
 =1879 -> Bombilla
 =1440 -> Imprenta de tipos móviles
 }
-
 
 ::Inventos::
 Ordena los inventos por orden cronológico\:{
@@ -142,20 +123,12 @@ Ordena los inventos por orden cronológico\:{
 =7 -> Internet
 }
 
-
-
-
-
-
-
-
 ::Invento/ Descubrimiento::
 La electricidad es un\:{
 =Descubrimiento
 ~Invento
 ~Innovación
 }
-
 
 ::Inventores:: 
 Empareja los inventores con los inventos\:{
@@ -165,10 +138,8 @@ Empareja los inventores con los inventos\:{
 =Nikola Tesla -> Alternador
 }
 
-
 :: Máquina de Vapor:: 
 En qué año se inventa la máquina de vapor\:{#1768:20}
-
 
 ::Computador::
 Selecciona las características principales de un computador\:{
@@ -177,7 +148,6 @@ Selecciona las características principales de un computador\:{
 ~%50%[moodle]Memoria RAM
 ~%-50%[moodle]Disco duro
 }
-
 
 ::Inconvenientes Tecnología::
 Principales inconvenientes del desarrollo tecnológico\:{
@@ -188,7 +158,6 @@ Principales inconvenientes del desarrollo tecnológico\:{
 ~%25%[moodle]Excesiva dependencia de la Tecnología
 ~%-50%[moodle]Vida muy cómoda
 }
-
 
 ::Obsolescencia programada::
 La obsolescencia programada:\:{

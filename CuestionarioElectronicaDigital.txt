@@ -3,139 +3,119 @@
 
 :: Niveles de abstracción:: 
 Ordena los niveles de abstracción de menor a mayor\:{
-=1 -> Semiconductores
-=2 -> Transistores
-=3 -> Puertas lógicas
-=4 -> Microcontroladores
+  =1 -> Semiconductores
+  =2 -> Transistores
+  =3 -> Puertas lógicas
+  =4 -> Microcontroladores
 }
-
 
 :: Lógica inversa:: 
 En lógica inversa 5V es un UNO\: {FALSE}
 
-
 :: Circuito digital:: 
 Un circuito digital trabaja con señales\:{
-=Continuas
-~Alternas
-~Analógicas
+  =Continuas
+  ~Alternas
+  ~Analógicas
 }
-
 
 :: BITs:: 
 ¿Cuántos bits necesitamos para codificar a los alumnos de la clase de tecnología?\:{#4}
 
-
 :: Sistema hexadecimal:: 
 El sistema hexadecimal se usa para simplificar la codificación de números binarios\:{TRUE}
-
 
 :: Color RGB:: 
 Si codifico un pixel de color RGB con una profundidad de 2 bits por canal, ¿cuantos colores se pueden formar?\:{#64}
 
-
 :: Color RGB2:: 
 Si codifico un LED de color RGB con una profundidad de 1 byte por canal, ¿cuántos colores se pueden hacer?\:{
-=millones
-~miles
-~cientos
-~decenas
+  =millones
+  ~miles
+  ~cientos
+  ~decenas
 }
-
 
 :: Código ASCII:: 
 Cuando presiono una tecla del ordenador, la A\:{
-~%33.33333%[moodle]Se envía el número 65 en binario
-~%33.33333%[moodle]Se envía un byte
-~%33.33333%[moodle]El carácter está codificado en código ASCII
+  ~%33.33333%[moodle]Se envía el número 65 en binario
+  ~%33.33333%[moodle]Se envía un byte
+  ~%33.33333%[moodle]El carácter está codificado en código ASCII
 }
-
 
 :: Archivo de texto:: 
 Si quiero un archivo de texto sin formato, debo usar la extensión\:{
-=txt
-~rtf
-~doc
-~odt
+  =txt
+  ~rtf
+  ~doc
+  ~odt
 }
-
 
 :: Función Booleana:: 
 ¿Cuántos valores puede tomar una función booleana F(A,B,C,D)\:{#16}
 
-
 :: Algebra de Boole:: 
 En el álgebra de Boole se verifica que: A+AB= \:{
-=A
-~B
-~0
-~1
+  =A
+  ~B
+  ~0
+  ~1
 }
-
 
 :: Puertas lógicas básicas:: 
 Las puertas lógicas básicas, a partir de las que se pueden formar las demás son\:{
-~%33.33333%[moodle]AND
-~%33.33333%[moodle]OR
-~%33.33333%[moodle]NO
-~%-33.33333%[moodle]NOR
-~%-33.33333%[moodle]NAND
-~%-33.33333%[moodle]XOR
+  ~%33.33333%[moodle]AND
+  ~%33.33333%[moodle]OR
+  ~%33.33333%[moodle]NO
+  ~%-33.33333%[moodle]NOR
+  ~%-33.33333%[moodle]NAND
+  ~%-33.33333%[moodle]XOR
 }
 
 
 :: Puertas lógicas:: 
 Las puertas lógicas se construyen a partir de transistores\: {TRUE}
 
-
-________________
-
-
 :: Puertas lógicas 2:: 
 Empareja las puertas lógicas y sus funciones\:{
-=AND -> A*B
-=OR -> A+B
-=NO -> A’
-=NOR -> A’*B’
-=NAND -> A’+B’
+  =AND -> A*B
+  =OR -> A+B
+  =NO -> A’
+  =NOR -> A’*B’
+  =NAND -> A’+B’
 }
-
 
 :: XOR:: 
 Si quiero comparar cuando 2 bits son iguales puedo usar una puerta \:{
-=XOR
-~AND
-~OR
-~NOR
-~NAND
+  =XOR
+  ~AND
+  ~OR
+  ~NOR
+  ~NAND
 }
-
 
 :: Forma canónica:: 
 Cual de las siguientes funciones está en forma canónica\:{
-~%50%[moodle]A
-~%50%[moodle]A*B
-~%-50%[moodle]A*B+C
-~%-50%[moodle]A*B+A
+  ~%50%[moodle]A
+  ~%50%[moodle]A*B
+  ~%-50%[moodle]A*B+C
+  ~%-50%[moodle]A*B+A
 }
-
 
 :: Formas canónicas 2:: 
 Empareja las formas canónicas\:{
-=Primera -> ABC+A’BC
-=Segunda -> (A+B+C)(A’+B+C)
+  =Primera -> ABC+A’BC
+  =Segunda -> (A+B+C)(A’+B+C)
 }
-
 
 :: NAND NOR:: 
 Con qué tipo de puertas lógicas puedo realizar cualquier función lógica\: {
-~%50%[moodle]NAND
-~%50%[moodle]NOR
-~%-33.33333%[moodle]AND
-~%-33.33333%[moodle]OR
-~%-33.33333%[moodle]XOR
+  ~%50%[moodle]NAND
+  ~%50%[moodle]NOR
+  ~%-33.33333%[moodle]AND
+  ~%-33.33333%[moodle]OR
+  ~%-33.33333%[moodle]XOR
 }
-
 
 :: Circuitos secuenciales:: 
 La salida de un circuito secuencial depende solo de sus entradas\: {FALSE}

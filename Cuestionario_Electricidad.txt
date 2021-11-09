@@ -1,0 +1,203 @@
+﻿// Cuestionario Electricidad
+
+
+// 1 CONCEPTOS BÁSICOS (6)
+
+
+::Definición electricidad::
+[html]Para que se produzca una corriente de electrones son necesarias las siguientes condiciones\:{
+        ~%-50%[moodle]Un receptor
+        ~%50%[moodle]Un circuito cerrado
+        ~%50%[moodle]Elementos conductores
+        ~%-50%[moodle]Un interruptor
+}
+
+
+::Átomo::
+Empareja los elementos de los átomos con sus características\:{
+=electrón -> carga negativa
+=protón -> carga positiva y masa
+=neutrón -> masa
+}
+
+
+::Conductividad::
+Ordena los materiales por su conductividad\:{
+        =1 -> Oro
+        =2 -> Plata
+        =3 -> Aluminio
+        =4 -> Silicio
+        =5 -> Plástico
+}
+
+
+::Resistencia- clasificación::
+Empareja los tipos de materiales con su valor de resistencia\:{
+=Conductor -> R=0Ω
+=Semiconductor -> 0Ω<R<MΩ
+=Aislante -> R=MΩ
+}
+
+
+::Resistencia cuerpo humano::
+El cuerpo humano es un material aislante\:{FALSE}
+
+
+::Resistencia semiconductor::
+Si un material tiene una resistencia de 30000 Ω es un material semiconductor\:{TRUE}
+
+
+
+
+
+
+// 2 ELEMENTOS FUNDAMENTALES (7)
+
+
+::Eltos fundamentales::[html]Los elementos fundamentales de un circuito eléctrico son\:{
+        ~%-25%[moodle]Bombilla
+        ~%20%[moodle]Generador
+        ~%20%[moodle]Receptor
+        ~%20%[moodle]Conductores
+        ~%20%[moodle]Elementos de maniobra y control
+        ~%20%[moodle]Elementos de protección
+        ~%-25%[moodle]Pila
+        ~%-25%[moodle]Cables
+        ~%-25%[moodle]Fusible
+}
+
+
+::Usos corriente continua::
+Los aparatos electrónicos funcionan con corriente continua\:{TRUE}
+
+
+::Frecuencia señal::Una corriente alterna de 50Hz, cambia de signo cada\:{
+        =0.01s
+        ~1s
+        ~50s
+        ~0.02s
+}
+
+
+::Transformar corriente::
+Que aparato se encarga de transformar la corriente alterna de 220v en corriente continua de 5v\:{
+        =Una fuente de alimentación
+        ~Un diferencial
+        ~Un interruptor automático
+        ~Un alternador
+}
+
+
+::Protección personas::
+El componente que protege a las personas ante posibles fallos es\:{
+        =Diferencial
+        ~Interruptor automático
+        ~Fusible
+        ~Magnetotérmico
+}
+
+
+::Selección rama activa::
+El componente que selecciona qué rama del circuito está activa es\:{
+        =Conmutador
+        ~Interruptor
+        ~Pulsador
+        ~Diferencial
+}
+
+
+::Elto protección ca::
+En los circuitos de corriente alterna se suelen usar como elemento de protección los fusibles\:{FALSE}
+
+
+// 3 V, R, I, P (4)
+
+
+::Magnitudes eléctricas básicas::
+Las magnitudes básicas eléctricas son\:{
+        ~%-50%[moodle]Potencia
+        ~%33.33333%[moodle]Resistencia
+        ~%33.33333%[moodle]Intensidad
+        ~%33.33333%[moodle]Voltaje
+        ~%-50%[moodle]Amperios
+}
+
+
+::Ley de Ohm-Proporcionalidad::
+En la ley de Ohm la relación de proporcionalidad es\:{
+        ~%-50%[moodle]Entre la resistencia y la corriente directa
+        ~%50%[moodle]Entre la resistencia y la corriente inversa
+        ~%50%[moodle]Entre la tensión y la corriente directa
+        ~%-50%[moodle]Entre la tensión y la corriente inversa
+}
+
+
+::Magnitudes y unidades::
+Empareja las magnitudes con sus unidades\:{
+        =Tensión -> Voltios
+        =Resistencia -> Ohmios
+        =Intensidad -> Amperios
+=Potencia -> Vatios
+}
+
+
+::Potencias::
+Empareja los aparatos con sus potencias\:{
+        =Bombilla -> 10 W
+        =Tv -> 200 W
+        =Tostadora -> 600 W
+=Vitrocerámica -> 3000 W
+}
+________________
+
+
+// 4 ASOCIACIÓN DE ELEMENTOS (3)
+
+
+::Bombillas instalaciones::
+[html]En una instalación eléctrica las bombillas se conectan en paralelo porque\:&nbsp;{
+        ~%-100%[moodle]Se conectan en serie
+        ~%50%[moodle]Funcionan a plena potencia
+        ~%50%[moodle]Si se funde una las demás siguen funcionando
+        ~%-100%[moodle]Es la forma tradicional
+}
+
+
+::Resistencias paralelo::
+Al asociar dos resistencias en paralelo, el valor de la resistencia equivalente es siempre menor que el de la resistencia de menor valor\:{TRUE}
+
+
+::Pilas serie::
+Al asociar dos pilas en serie, el valor de la tensión equivalente es la suma de los valores de cada pila\:{TRUE}
+________________
+// 5 MEDICIÓN DE MAGNITUDES (5)
+
+
+::Aparato medir magnitudes::
+Como se llama el aparato que mide magnitudes eléctricas\:{
+        =%100%Polímetro#
+        =%100%Polímetro#
+}
+
+
+::Mediciones::
+Empareja las magnitudes con la forma de colocar el polímetro\:{
+        =Tensión -> Paralelo
+        =Resistencia -> Desconectado del circuito
+        =Intensidad -> Serie
+}
+
+
+::Polímetro::Un polímetro es un aparato que puede realizar diferentes medidas de magnitudes eléctricas\:{TRUE}
+
+
+::Amperímetro::Para medir intensidad, debo colocar el amperímetro\:{
+        ~En serie
+        ~En paralelo
+        =En serie para lo cual hay que abrir el circuito
+        ~En paralelo pero hay que desconectar el elemento
+}
+
+
+::Amperímetro2::
+Al colocar un amperímetro en paralelo puedo realizar un cortocircuito y estropear el aparato de medida\:{TRUE}

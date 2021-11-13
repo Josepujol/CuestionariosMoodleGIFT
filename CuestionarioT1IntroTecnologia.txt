@@ -1,5 +1,4 @@
-//﻿Cuestionario T1 Intro Tecnología
-
+//Cuestionario T1 Intro Tecnología
 
 ::Definición Tecnologia 1::
 La tecnología es un proceso\:{
@@ -9,10 +8,10 @@ La tecnología es un proceso\:{
 
 ::Definición Tecnologia 2::
 La tecnología\:{
-~%-100%Es una ciencia
+~%-50%Es una ciencia
 ~%50%Utiliza los procedimientos de la técnica
 ~%50%Usa los conocimientos científicos
-~%-100%Es saber hacer
+~%-50%Es saber hacer
 }
 
 ::Necesidades::
@@ -23,7 +22,7 @@ Elementos de la tecnología\:{
 ~%-50%[moodle] El ordenador
 ~%20%[moodle] Dibujo Técnico
 ~%20%[moodle] Materiales y Procesos de fabricación
-~%20%[moodle] Consideraciones económicas
+~%20%[moodle] Factores económicos
 ~%20%[moodle] Conocimientos científicos
 ~%20%[moodle] Aplicaciones informáticas
 ~%-50%[moodle] Necesidades humanas
@@ -37,16 +36,25 @@ Ordena las fases del proceso Tecnológico\:{
 =4 -> Planificación
 =5 -> Construcción
 =6 -> Evaluación
+=7 -> Presentación
 }
 
+
 ::Memoria::
-La Memoria es:\:{
+La Memoria es\:{
 ~%-50%[moodle] Es un proceso
-~%20%[moodle] Es un documento
-~%20%[moodle] Refleja el proceso realizado
-~%20%[moodle] Permite que otra persona pueda replicar el proyecto
-~%20%[moodle] Es necesaria desde que el artesano se bifurca en ingeniero y operario
-~%-50% [moodle] Recordar el proyecto
+~%25%[moodle] Es un documento
+~%25%[moodle] Refleja el proceso realizado
+~%25%[moodle] Permite que otra persona pueda replicar el proyecto
+~%25%[moodle] Es necesaria desde que el artesano se bifurca en ingeniero y operario
+~%-50% [moodle] Para recordar el proyecto
+}
+
+::Diseño::
+Empareja la aplicación que le damos a los diferentes tipos de dibujos\:{
+=Boceto -> Idea inicial
+=Perspectiva -> Definición de la solución
+=Vistas -> Piezas que componen el objeto
 }
 
 ::Artesano::
@@ -70,6 +78,14 @@ La organización de una empresa se representa mediante\:{
 ~Las vistas
 }
 
+::Organigrama 2::
+Un organigrama nos muestra \:{
+~%25% Los departamentos de una empresa
+~%25% Los canales de comunicación
+~%25% La jerarquía de los empleados
+~%25% El tipo de empresa: rígida/ fléxible
+}
+
 ::Habilidades equipo:: 
 Selecciona las habilidades que debe tener un equipo de Tecnología\:{
 ~%-50%Negatividad
@@ -79,6 +95,13 @@ Selecciona las habilidades que debe tener un equipo de Tecnología\:{
 ~%20%[moodle]Habilidad manual
 ~%20%[moodle]Competencias digitales
 ~%-50%[moodle]Cooperativismo
+}
+
+::Etapas de la Tecnología::
+Ordena las etapas de la Tecnología según Ortega y Gasset\:{
+=1 -> Técnica del azar
+=2 -> Técnica del artesano
+=3 -> Técnica del técnico
 }
 
 ::Revolución Industrial::
@@ -110,6 +133,8 @@ Empareja los Años con los inventos\:{
 =1768 -> Máquina de vapor
 =1879 -> Bombilla
 =1440 -> Imprenta de tipos móviles
+=SXII -> Reloj mecánico
+=5000 a.C. -> Rueda
 }
 
 ::Inventos::
@@ -124,10 +149,10 @@ Ordena los inventos por orden cronológico\:{
 }
 
 ::Invento/ Descubrimiento::
-La electricidad es un\:{
-=Descubrimiento
-~Invento
-~Innovación
+Empareja\:{
+=Descubrimiento -> Electricidad
+=Invento -> Bombilla
+=Innovación -> Walkman
 }
 
 ::Inventores:: 
@@ -139,7 +164,7 @@ Empareja los inventores con los inventos\:{
 }
 
 :: Máquina de Vapor:: 
-En qué año se inventa la máquina de vapor\:{#1768:20}
+En qué año se inventa la máquina de vapor\:{#1768:10}
 
 ::Computador::
 Selecciona las características principales de un computador\:{
@@ -153,16 +178,27 @@ Selecciona las características principales de un computador\:{
 Principales inconvenientes del desarrollo tecnológico\:{
 ~%-50%[moodle]Excesivo ocio
 ~%25%[moodle]Agotamiento de recursos
-~%25%[moodle]Contaminación
+~%25%[moodle]Contaminación y cambio climático
 ~%25%[moodle]Pérdida de biodiversidad
 ~%25%[moodle]Excesiva dependencia de la Tecnología
 ~%-50%[moodle]Vida muy cómoda
 }
 
+::Cambio climático::
+Los principales consecuencias del cambio climático son\:{
+~%-50%[moodle]Agotamiento de recursos
+~%25%[moodle]Subida de la temperatura media del planeta
+~%25%[moodle]Fenómenos meteorológicos extremos
+~%25%[moodle]Cambio de las condiciones climáticas
+~%25%[moodle]Extinción de fauna y flora
+~%-50%[moodle]Contaminación
+}
 ::Obsolescencia programada::
-La obsolescencia programada:\:{
+La obsolescencia programada\:{
 ~%-50%[moodle]Es algo de reciente creación
 ~%33.33333%[moodle]Consiste en planificar la vida del producto
 ~%33.33333%[moodle]Depende también del consumidor
 ~%33.33333%[moodle]Dinamiza la economía
 }
+
+
